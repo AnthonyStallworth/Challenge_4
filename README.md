@@ -14,4 +14,3 @@
 
 ## License
 
-Copy Away

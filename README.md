@@ -2,17 +2,20 @@
 Project Title
 
 
-# Financial Planning Tool
+
 
 ## Technologies
-## Monte Carlo
-## Alpaca
+## Pandas 
+## pathlib
+## NumPy
+Technologies
 
-### Contributors
 
-List the people who contributed to the project, as well as your contact information.
-### Anthony Stallworth - Contributor
+
+
+
+### Anthony Stallworth
+Contributors
 
 ## License
 
-Copy Away
